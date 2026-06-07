@@ -1,0 +1,11 @@
+Excited to share my Sales Data Analysis project completed for Synent Technologies Internship Program.
+
+Project Highlights:
+- Monthly Revenue Trend Analysis
+- Top Selling Products
+- Profit Analysis by Category and Region
+
+Tools Used:
+Python, Pandas, Matplotlib
+
+#DataScience #Python #EDA #SalesAnalysis #Internship
